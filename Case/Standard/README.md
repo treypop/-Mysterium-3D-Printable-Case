@@ -10,4 +10,4 @@
 9. mysterium-foot-3.stl - 315.7 x 24mm - ***3mm thickness***
 10. mysterium-foot-4.stl - 311.7 x 20mm - ***3mm thickness***
 
-## Link to exampe model of case: https://www.tinkercad.com/things/iqyKuYWLziM?sharecode=mHUZSTnkDMxXT8q0oyOKScvRrVtwCleI_1Tn0MjGlew
+Link to exampe model of case: https://www.tinkercad.com/things/iqyKuYWLziM?sharecode=mHUZSTnkDMxXT8q0oyOKScvRrVtwCleI_1Tn0MjGlew
